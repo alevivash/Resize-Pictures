@@ -124,8 +124,6 @@ def binary_to_hexa(binario):
 
 bit_list = image_to_bitlist(select_image())
 
-r"C:\Users\Alejandro\Desktop\redimensionadas\image_1.jpg"
-
 # Mostrar los primeros 100 bits de la lista como ejemplo
 print(bit_list[:100])
 
