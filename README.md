@@ -1,0 +1,1 @@
+Resize a list of pictures in Python
