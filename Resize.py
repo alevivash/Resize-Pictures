@@ -87,6 +87,8 @@ def select_image():
     return Image.open(filedialog.askopenfilename(title="Select an image",
                                                  filetypes=[("Image Files", "*.png;*.jpg;*.jpeg;*.bmp;*.tiff")]))
 
+def dot_filter
+
 
 miniatures = resizeList(load_images((select_folder())), 128, 64)
 
